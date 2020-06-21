@@ -1,0 +1,41 @@
+
+.ShipContainer {
+  height: 100vh;
+  flex-direction: column;
+}
+
+.ShipContainer {
+  flex: 0.5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ShipImage {
+  width: 30%;
+}
+
+.MobileShipImage {
+  width: 50%;
+}
+
+.RoundSpeed {
+  flex: 0.5;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.RoundText {
+  font-size: 1.7rem;
+  line-height: 0.1rem;
+  color: white;
+  font-family: 'Rum Raisin', serif;
+}
+
+.MobileRoundText {
+  font-size: 0.55rem;
+  line-height: 0.1rem;
+  color: white;
+  font-family: 'Rum Raisin', serif;
+}

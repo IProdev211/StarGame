@@ -1,10 +1,21 @@
-.App {
+
+.resultContainer {
+  display: flex;
+  flex-direction: column;
   text-align: center;
+  margin-top: 2.5rem;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.winText {
+  color: white;
+  font-size: 2.5rem;
+  font-family: 'Rum Raisin', serif;
+}
+
+.mobileWinText {
+  color: white;
+  font-size: 1.5rem;
+  font-family: 'Rum Raisin', serif;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -13,19 +24,72 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.App {
+  background-image: url(./assets/background.png);
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex: 1;
 }
 
-.App-link {
-  color: #61dafb;
+.newGameBtnContainer {
+  display: flex;
+  flex: 1;
+  align-items: center;
+}
+
+.mobileNewGameBtnContainer {
+  display: flex;
+  flex: 0.5;
+  align-items: center;
+}
+
+.newGameBtn {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #00bfff;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  font-family: 'Rum Raisin', serif;
+}
+
+.newGameBtn:hover {background-color: #0080ff}
+
+.newGameBtn:active {
+  background-color: #6bebeb;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.mobileNewGameBtn {
+  padding: 10px 10px;
+  font-size: 12px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #00bfff;
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0 4px #999;
+  font-family: 'Rum Raisin', serif;
+}
+
+.mobileNewGameBtn:hover {background-color: #0080ff}
+
+.mobileNewGameBtn:active {
+  background-color: #6bebeb;
+  box-shadow: 0 2px #666;
+  transform: translateY(4px);
 }
 
 @keyframes App-logo-spin {
