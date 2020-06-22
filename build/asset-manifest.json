@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/StarGame/static/css/main.aadb0651.chunk.css",
+    "main.js": "/StarGame/static/js/main.3d2adca2.chunk.js",
+    "main.js.map": "/StarGame/static/js/main.3d2adca2.chunk.js.map",
+    "runtime-main.js": "/StarGame/static/js/runtime-main.199f23b6.js",
+    "runtime-main.js.map": "/StarGame/static/js/runtime-main.199f23b6.js.map",
+    "static/js/2.684ce877.chunk.js": "/StarGame/static/js/2.684ce877.chunk.js",
+    "static/js/2.684ce877.chunk.js.map": "/StarGame/static/js/2.684ce877.chunk.js.map",
+    "index.html": "/StarGame/index.html",
+    "precache-manifest.49a30cf1d583dc5368f9c0676a8cf47e.js": "/StarGame/precache-manifest.49a30cf1d583dc5368f9c0676a8cf47e.js",
+    "service-worker.js": "/StarGame/service-worker.js",
+    "static/css/main.aadb0651.chunk.css.map": "/StarGame/static/css/main.aadb0651.chunk.css.map",
+    "static/js/2.684ce877.chunk.js.LICENSE.txt": "/StarGame/static/js/2.684ce877.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/StarGame/static/media/background.3d7f7a6c.png",
+    "static/media/ship.png": "/StarGame/static/media/ship.be7def75.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.199f23b6.js",
+    "static/js/2.684ce877.chunk.js",
+    "static/css/main.aadb0651.chunk.css",
+    "static/js/main.3d2adca2.chunk.js"
+  ]
+}
