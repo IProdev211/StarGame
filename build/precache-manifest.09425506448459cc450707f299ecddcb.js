@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d3dc0bb7a439961038a99bc180ca9c4",
+    "revision": "bce0a7381390b7205d2124db6bf12b5f",
     "url": "/StarGame/index.html"
   },
   {
-    "revision": "61bfa8e28efc6d10a28b",
-    "url": "/StarGame/static/css/main.aadb0651.chunk.css"
+    "revision": "072748a26e5fb5fdc14b",
+    "url": "/StarGame/static/css/main.f1420ee3.chunk.css"
   },
   {
-    "revision": "7051abb0481add88d18a",
-    "url": "/StarGame/static/js/2.684ce877.chunk.js"
+    "revision": "f789c8c57f9e91288c4d",
+    "url": "/StarGame/static/js/2.86b5336a.chunk.js"
   },
   {
     "revision": "5eeaef24d459591afeaec501ac57b571",
-    "url": "/StarGame/static/js/2.684ce877.chunk.js.LICENSE.txt"
+    "url": "/StarGame/static/js/2.86b5336a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "61bfa8e28efc6d10a28b",
-    "url": "/StarGame/static/js/main.3d2adca2.chunk.js"
+    "revision": "072748a26e5fb5fdc14b",
+    "url": "/StarGame/static/js/main.c3cf3579.chunk.js"
   },
   {
     "revision": "107090f106e35ad179c2",

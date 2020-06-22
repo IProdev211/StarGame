@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/StarGame/precache-manifest.49a30cf1d583dc5368f9c0676a8cf47e.js"
+  "/StarGame/precache-manifest.09425506448459cc450707f299ecddcb.js"
 );
 
 self.addEventListener('message', (event) => {
