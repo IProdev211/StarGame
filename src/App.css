@@ -32,20 +32,34 @@
   background-size: cover;
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: space-around;
   flex: 1;
 }
 
 .newGameBtnContainer {
+  min-width: 66px;
   display: flex;
-  flex: 1;
+  flex: 0.7;
   align-items: center;
 }
 
 .mobileNewGameBtnContainer {
+  min-width: 66px;
   display: flex;
   flex: 0.5;
   align-items: center;
+}
+
+.winnerContainer {
+  display: flex;
+  flex: 0.2;
+  flex-direction: column;
+}
+
+.mobileWinnerContainer {
+  display: flex;
+  flex: 0.2;
+  flex-direction: column;
 }
 
 .newGameBtn {
@@ -63,6 +77,8 @@
 }
 
 .newGameBtn:hover {background-color: #0080ff}
+
+.newGameBtn:disabled {background-color: #93979b}
 
 .newGameBtn:active {
   background-color: #6bebeb;
@@ -85,6 +101,8 @@
 }
 
 .mobileNewGameBtn:hover {background-color: #0080ff}
+
+.mobileNewGameBtn:disabled {background-color: #93979b}
 
 .mobileNewGameBtn:active {
   background-color: #6bebeb;
