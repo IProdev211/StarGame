@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/star-game/static/css/main.6e1389ad.chunk.css",
-    "main.js": "/star-game/static/js/main.6e9d8f73.chunk.js",
-    "main.js.map": "/star-game/static/js/main.6e9d8f73.chunk.js.map",
-    "runtime-main.js": "/star-game/static/js/runtime-main.5b6faa47.js",
-    "runtime-main.js.map": "/star-game/static/js/runtime-main.5b6faa47.js.map",
-    "static/js/2.684ce877.chunk.js": "/star-game/static/js/2.684ce877.chunk.js",
-    "static/js/2.684ce877.chunk.js.map": "/star-game/static/js/2.684ce877.chunk.js.map",
-    "index.html": "/star-game/index.html",
-    "precache-manifest.a9a20743cadd59062c9c19014faf1ec4.js": "/star-game/precache-manifest.a9a20743cadd59062c9c19014faf1ec4.js",
-    "service-worker.js": "/star-game/service-worker.js",
-    "static/css/main.6e1389ad.chunk.css.map": "/star-game/static/css/main.6e1389ad.chunk.css.map",
-    "static/js/2.684ce877.chunk.js.LICENSE.txt": "/star-game/static/js/2.684ce877.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/star-game/static/media/background.3d7f7a6c.png",
-    "static/media/ship.png": "/star-game/static/media/ship.be7def75.png"
+    "main.css": "/StarGame/static/css/main.aadb0651.chunk.css",
+    "main.js": "/StarGame/static/js/main.3d2adca2.chunk.js",
+    "main.js.map": "/StarGame/static/js/main.3d2adca2.chunk.js.map",
+    "runtime-main.js": "/StarGame/static/js/runtime-main.199f23b6.js",
+    "runtime-main.js.map": "/StarGame/static/js/runtime-main.199f23b6.js.map",
+    "static/js/2.684ce877.chunk.js": "/StarGame/static/js/2.684ce877.chunk.js",
+    "static/js/2.684ce877.chunk.js.map": "/StarGame/static/js/2.684ce877.chunk.js.map",
+    "index.html": "/StarGame/index.html",
+    "precache-manifest.49a30cf1d583dc5368f9c0676a8cf47e.js": "/StarGame/precache-manifest.49a30cf1d583dc5368f9c0676a8cf47e.js",
+    "service-worker.js": "/StarGame/service-worker.js",
+    "static/css/main.aadb0651.chunk.css.map": "/StarGame/static/css/main.aadb0651.chunk.css.map",
+    "static/js/2.684ce877.chunk.js.LICENSE.txt": "/StarGame/static/js/2.684ce877.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/StarGame/static/media/background.3d7f7a6c.png",
+    "static/media/ship.png": "/StarGame/static/media/ship.be7def75.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b6faa47.js",
+    "static/js/runtime-main.199f23b6.js",
     "static/js/2.684ce877.chunk.js",
-    "static/css/main.6e1389ad.chunk.css",
-    "static/js/main.6e9d8f73.chunk.js"
+    "static/css/main.aadb0651.chunk.css",
+    "static/js/main.3d2adca2.chunk.js"
   ]
 }
