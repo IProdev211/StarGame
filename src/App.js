@@ -4,6 +4,7 @@ import StarShip from './components/StarShip';
 import { useMediaQuery } from 'react-responsive';
 
 function App() {
+  // Available in mobile or tablet
   const isTabletOrMobile = useMediaQuery({ query: '(max-width: 1224px)' })
 
   return (
