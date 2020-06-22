@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bce0a7381390b7205d2124db6bf12b5f",
+    "revision": "609f2dddb16a844c45859f8a16f4cde0",
     "url": "/StarGame/index.html"
   },
   {
